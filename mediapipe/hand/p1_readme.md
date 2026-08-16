@@ -4,15 +4,13 @@
 
 Bu proje, **OpenCV** ve **MediaPipe** kullanarak kameradaki el hareketlerini algılar. Kullanıcı belirli sayıda parmağını gösterdiğinde geri sayım ilerler ve geri sayım tamamlandığında ekranda **"LOVE YOU <3"** mesajı gösterilir.
 
-## Kullanılan Teknolojiler
+#Kullanılan Teknolojiler
 
 - Python
 - OpenCV
 - MediaPipe
 
-## Kullanılan Kütüphaneler
-
-```bash
+#Kullanılan Kütüphaneler: 
 pip install opencv-python mediapipe
 
 Program bilgisayarın kamerasını açar ve görüntüyü gerçek zamanlı olarak işler.
